@@ -38,18 +38,9 @@ nav > menu p{
     display: inline;
     padding: 10px;
 }
-section > img{
-    display: block;
+
+ img{
     margin: auto;
-    width: 90%;
-    height: 50vh;
-}
-section > h2{
-    text-align: center;
-    font-size: 3em;
-    padding: 20px;
-}
-section > p{
-    text-align: center;
-    padding: 10px;
+    width: 90vw;
+    height: 500px;
 }

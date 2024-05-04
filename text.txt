@@ -1,0 +1,73 @@
+
+
+<section>
+    [imagem]
+</section>
+
+<section>
+    Restaurante Penne
+    celebre o sabor da vida
+</section>
+
+<h2>Nossos serviços</h2>
+
+<section>
+    <div>
+        [Imagem 1]
+        
+        Agendamento
+        Segunda á Sexta
+        das 14hrs ás 22hrs
+        R$ 40 por mesa
+        
+        [Button Agendar agora]
+    </div>
+    
+    <div>
+        Serviço de Entrega
+        Domingo á Domingo
+        das 16hrs ás 00h
+        R$ 20 para entrega
+        
+        [Button entregar agora]
+    </div>
+    
+    <div>
+        Festa no Restaurante
+        Reserve o Restaurante para comemorações
+        R$ 500 por dia
+        
+        [Button Agendar agora]
+    </div>
+</section>
+
+<section>
+    <div>
+        Histórico
+        
+        Fundado em 2023, em Salvador, somos conhecidos por nossa recepção amigável e conforto. Com muito orgulho dos nossos sabores e partilhá-los para os visitantes.
+    </div>
+        
+    <div>[Imagem]</div>
+        
+        [Button entre em contato]
+    
+</section>
+
+<section>
+    <div>
+        Aceitamos cartão de crédito, débito, PIX e dinheiro.
+        Oferecemos apenas os melhores pratos de salvador.
+    </div>
+    <div>[imagem]</div>
+</section>
+
+<footer>
+    <section>
+        Restaurante Penne
+    
+        restaurantepenne@gmail.com
+    
+        2023 por restaurante penne
+    </section>
+</footer>
