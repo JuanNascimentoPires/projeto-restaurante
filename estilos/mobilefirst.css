@@ -39,3 +39,7 @@ main > div img{
 main >section > div#pagamentos > img{
     width: 500px;
 }
+img{
+    width:500px;
+    height: 500px;
+}
